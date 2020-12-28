@@ -1,2 +1,4 @@
 # 😄 Olá 
-Sou o Luis45#7104 desenvolvedor do [Danitto](https://danitto-web.glitch.me/pt)
+Sou o SrDGdev#7766
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MIUI45fx&layout=compact&theme=dracula)
