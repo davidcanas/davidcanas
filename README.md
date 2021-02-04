@@ -1,4 +1,4 @@
-# Olá ! 
+# 👍 Olá  
 Olá eu sou o SrD4dev, tenho 13 anos e sou programador
 
 <p align="center">
