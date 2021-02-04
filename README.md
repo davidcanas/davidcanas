@@ -12,7 +12,7 @@ Olá eu sou o SrD4dev, tenho 13 anos e sou programador
 </p>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>📊 Status do Github </summary>
 
   <img align="left" alt="Status do Github" src="https://github-readme-stats.codestackr.vercel.app/api?username=SrD4dev&count_private=true&show_icons=true&theme=compact" />
 
