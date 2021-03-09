@@ -1,7 +1,6 @@
-# 👍 Olá  
+# Olá 
 Olá eu sou o SrDCdev, tenho 13 (14 em maio) anos e sou programador
-# Linguagens
-JavaScript , HTML , CSS 
+
 
 <details>
   <summary>📊 Status do Github </summary>
