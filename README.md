@@ -12,7 +12,7 @@ Olá eu sou o SrDCdev, tenho 13 (14 em maio) anos e sou programador
 <details>
   <summary>⚙️ Linguagens mais usadas </summary>
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrDCdev&theme=tokyonight" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrDCdev&langs_count=5&theme=tokyonight" />
 
 </details> 
 <br>
