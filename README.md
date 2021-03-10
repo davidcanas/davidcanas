@@ -1,6 +1,10 @@
 # Olá 
 Olá eu sou o SrDCdev, tenho 13 (14 em maio) anos e sou programador
-
+<style>
+  body {
+  background-color: black;
+  }
+</style>
 <div align=center>
 <details>
   <summary>📊 Status do Github </summary>
