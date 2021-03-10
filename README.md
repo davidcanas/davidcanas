@@ -20,7 +20,7 @@ Olá eu sou o SrDCdev, tenho 13 (14 em maio) anos e sou programador
 <details>
   <summary>📊 Status do Github </summary>
 
-  <img align="left" alt="Status do Github" src="https://github-readme-stats.codestackr.vercel.app/api?username=SrDCdev&count_private=true&show_icons=true&theme=merko" />
+  <img align="left" alt="Status do Github" src="https://github-readme-stats.codestackr.vercel.app/api?username=SrDCdev&custom_title=📊+Status+do+Github&count_private=true&show_icons=true&theme=merko" />
 
 </details> 
 
