@@ -12,7 +12,7 @@ Olá eu sou o SrDCdev, tenho 13 (14 em maio) anos e sou programador
 <details>
   <summary>⚙️ Linguagens mais usadas </summary>
 
-  <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=SrDCdev&theme=dracula&layout=compact" />
+  <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=SrDCdev&count_private=true&theme=dracula&layout=compact" />
 
 </details> 
 <br>
