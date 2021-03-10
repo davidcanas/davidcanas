@@ -3,20 +3,18 @@ Olá eu sou o SrDCdev, tenho 13 (14 em maio) anos e sou programador
 
 <div align=center>
 <details>
+  <summary>⚙️ Linguagens mais usadas </summary>
+
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrDCdev&langs_count=5&theme=tokyonight" />
+
+</details> 
+<details>
   <summary>📊 Status do Github </summary>
 
   <img align="left" alt="Status do Github" src="https://github-readme-stats.codestackr.vercel.app/api?username=SrDCdev&count_private=true&show_icons=true&theme=tokyonight" />
 
 </details> 
 <br>
-<details>
-  <summary>⚙️ Linguagens mais usadas </summary>
-
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrDCdev&langs_count=5&theme=tokyonight" />
-
-</details> 
-<br>
-
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000.svg?&style=for-the-badge&logo=node.js)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
