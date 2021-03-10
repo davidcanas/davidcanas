@@ -8,7 +8,7 @@ Olá eu sou o SrDCdev, tenho 13 (14 em maio) anos e sou programador
   <img align="left" alt="Status do Github" src="https://github-readme-stats.codestackr.vercel.app/api?username=SrDCdev&count_private=true&show_icons=true&theme=tokyonight" />
 
 </details> 
-
+<br>
 <details>
   <summary>⚙️ Linguagens mais usadas </summary>
 
