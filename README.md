@@ -5,14 +5,14 @@ Olá eu sou o SrDCdev, tenho 13 (14 em maio) anos e sou programador
 <details>
   <summary>📊 Status do Github </summary>
 
-  <img align="left" alt="Status do Github" src="https://github-readme-stats.codestackr.vercel.app/api?username=SrDCdev&count_private=true&show_icons=true&theme=compact" />
+  <img align="left" alt="Status do Github" src="https://github-readme-stats.codestackr.vercel.app/api?username=SrDCdev&count_private=true&show_icons=true&theme=tokyonight" />
 
 </details> 
 
 <details>
   <summary>⚙️ Linguagens mais usadas </summary>
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrDCdev&hide=html&theme=tokyonight" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrDCdev&theme=tokyonight" />
 
 </details> 
 <br>
