@@ -1,6 +1,8 @@
 # Olá 
 Olá eu sou o SrDCdev e sou programador !
 <div align=center>
+ <img src="https://komarev.com/ghpvc/?username=lennart-sr" alt="akshit-wtf" alt="Profile Views" />
+
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000.svg?&style=for-the-badge&logo=node.js)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
