@@ -1,5 +1,5 @@
 # Olá 
-Olá eu sou o SrDCdev e sou programador !
+
 <div align=center>
  <img src="https://komarev.com/ghpvc/?username=srdcdev" alt="Minhas views" alt="Profile Views" />
 
@@ -11,6 +11,7 @@ Olá eu sou o SrDCdev e sou programador !
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=3799d6)
 ![Pug](https://img.shields.io/badge/-Pug-000000?style=for-the-badge&logo=pug&logoColor=f74b00)
 ![Lua](https://img.shields.io/badge/-Lua-000000.svg?&style=for-the-badge&logo=lua&logoColor=blue)
+![Typescript](https://img.shields.io/badge/-Typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=blue)
 <details>
   <br>
   <summary>⚙️ Linguagens mais usadas </summary>
