@@ -16,13 +16,13 @@
   <br>
   <summary>⚙️ Linguagens mais usadas </summary>
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrDCdev&custom_title=Linguagens+mais+usadas&langs_count=5&theme=merko" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanasDev&custom_title=Linguagens+mais+usadas&langs_count=5&theme=merko" />
 
 </details> 
 <details>
   <summary>📊 Status do Github </summary>
 
-  <img align="left" alt="Status do Github" src="https://github-readme-stats.codestackr.vercel.app/api?username=SrDCdev&custom_title=Status+do+Github&count_private=true&show_icons=true&theme=merko" />
+  <img align="left" alt="Status do Github" src="https://github-readme-stats.codestackr.vercel.app/api?username=CanasDev&custom_title=Status+do+Github&count_private=true&show_icons=true&theme=merko" />
 
 </details> 
 
