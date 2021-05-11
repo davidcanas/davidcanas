@@ -1,4 +1,4 @@
-# Olá 
+# Olá !
 
 <div align=center>
  <img src="https://komarev.com/ghpvc/?username=srdcdev" alt="Minhas views" alt="Profile Views" />
