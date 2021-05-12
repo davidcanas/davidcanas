@@ -1,7 +1,9 @@
 # Olá !
 
 <div align=center>
- <img src="https://komarev.com/ghpvc/?username=srdcdev" alt="Minhas views" alt="Profile Views" />
+ <a href="https://ko-fi.com/canasdev" target="_blank">
+
+<img src="https://komarev.com/ghpvc/?username=srdcdev" alt="Minhas views" alt="Profile Views" />
 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000.svg?&style=for-the-badge&logo=node.js)  
