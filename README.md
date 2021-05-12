@@ -1,7 +1,7 @@
 # Olá !
+ <a href="https://ko-fi.com/canasdev" target="_blank">
 
 <div align=center>
- <a href="https://ko-fi.com/canasdev" target="_blank">
 
 <img src="https://komarev.com/ghpvc/?username=canasdev" alt="Minhas views" alt="Profile Views" />
 
