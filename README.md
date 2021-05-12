@@ -1,5 +1,5 @@
 # Olá !
- <a href="https://ko-fi.com/canasdev" target="_blank">A</a>
+![Buy me a cooffe](https://ko-fi.com/canasdev)
 
 <div align=center>
 
