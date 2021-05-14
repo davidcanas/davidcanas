@@ -14,6 +14,8 @@
 ![Pug](https://img.shields.io/badge/-Pug-000000?style=for-the-badge&logo=pug&logoColor=f74b00)
 ![Lua](https://img.shields.io/badge/-Lua-000000.svg?&style=for-the-badge&logo=lua&logoColor=blue)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=blue)
+![Handlebars](https://img.shields.io/badge/-Handlebars-000000.svg?&style=for-the-badge&logo=Handlebars&logoColor=blue)
+
 <details>
   <br>
   <summary>⚙️ Linguagens mais usadas </summary>
