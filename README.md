@@ -1,5 +1,5 @@
 # Olá !
-[Buy me a cooffe](https://ko-fi.com/canasdev)
+
 
 <div align=center>
 
