@@ -26,7 +26,7 @@
 <details>
   <summary>📊 Status do Github </summary>
 
-  <img align="left" alt="Status do Github" src="https://github-readme-stats.codestackr.vercel.app/api?username=CanasDev&custom_title=Status+do+Github&count_private=true&show_icons=true&theme=merko" />
+  <img align="left" alt="Status do Github" src="https://github-readme-stats.codestackr.vercel.app/api?username=CanasgDev&custom_title=Status+do+Github&count_private=true&show_icons=true&theme=merko" />
 
 </details> 
 
