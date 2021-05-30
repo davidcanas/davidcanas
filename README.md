@@ -20,7 +20,7 @@
   <br>
   <summary>⚙️ Linguagens mais usadas </summary>
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanasDev&custom_title=Linguagens+mais+usadas&langs_count=5&theme=merko" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanasDev&custom_title=Linguagens+mais+usadas&langs_count=10&theme=merko" />
 
 </details> 
 <details>
