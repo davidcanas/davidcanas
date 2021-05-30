@@ -28,6 +28,6 @@
 
   <img align="left" alt="Status do Github" src="https://github-readme-stats.vercel.app/api?username=CanasDev"/>
 </details> 
-<br>
+<br><br>
 <a href="https://discord.com/users/791347446298312724"><img src="https://discord.c99.nl/widget/theme-2/791347446298312724.png" /></a>
 </div>
