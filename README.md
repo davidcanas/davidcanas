@@ -26,7 +26,7 @@
 <details>
   <summary>📊 Status do Github </summary>
 
-  <img align="left" alt="Status do Github" src="https://github-readme-stats.vercel.app/api?username=CanasDev"/>
+  <img align="left" alt="Status do Github" src="https://github-readme-stats.vercel.app/api?username=CanasDev&count_private=true"/>
 </details> 
 <br><br>
 ----------------------------------------------------------
