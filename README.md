@@ -5,7 +5,7 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=canasdev&color=green&style=plástico&label=Profile+Views" alt="Minhas views" alt="Profile Views" />
+<img src="https://profile-counter.glitch.me/CanasDev/count.svg" alt="Minhas views" alt="Profile Views" />
 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000.svg?&style=for-the-badge&logo=node.js)  
