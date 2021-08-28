@@ -6,8 +6,7 @@
 
 
 <img src="https://profile-counter.glitch.me/CanasDev/count.svg" alt="Minhas views" alt="Profile Views" />
-
-
+<br>
 ![Node.js](https://img.shields.io/badge/-Node.js-000000.svg?&style=for-the-badge&logo=node.js)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
