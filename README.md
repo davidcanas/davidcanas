@@ -3,7 +3,7 @@
 
 <div align=center>
 
-<img src="https://komarev.com/ghpvc/?username=canasdev&color=ligthgreen&style=plástico&label=Visualizações do GitHub" alt="Minhas views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=canasdev&color=green&style=plástico&label=Visualizações do GitHub" alt="Minhas views" alt="Profile Views" />
 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000.svg?&style=for-the-badge&logo=node.js)  
