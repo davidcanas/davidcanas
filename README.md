@@ -4,6 +4,8 @@
 # Olá 
 
 
+<img src="https://profile-counter.glitch.me/CanasDev/count.svg" alt="Minhas views" alt="Profile Views" />
+
 
 
 <br>
