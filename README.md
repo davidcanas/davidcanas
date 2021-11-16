@@ -1,13 +1,9 @@
 
 <div align=center>
 
-# Olá 
+# Olá, eu sou CanasDev
 
-
-<img src="https://profile-counter.glitch.me/CanasDev/count.svg" alt="Minhas views" alt="Profile Views" />
-
-
-
+  
 <br>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000.svg?&style=for-the-badge&logo=node.js)  
@@ -33,7 +29,3 @@
 
   <img align="left" alt="Status do Github" src="https://github-readme-stats.vercel.app/api?username=CanasDev&count_private=true"/>
 </details> 
-<br><br>
-----------------------------------------------------------
-<a href="https://discord.com/users/791347446298312724"><img src="https://discord.c99.nl/widget/theme-2/791347446298312724.png" /></a>
-</div>
