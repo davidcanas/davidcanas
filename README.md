@@ -1,7 +1,7 @@
 
 <div align=center>
 
-# Olá, eu sou CanasDev
+# Hi, I am Canas! 
 
   
 <br>
