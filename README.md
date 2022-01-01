@@ -29,5 +29,5 @@
 
   <img align="left" alt="Status do Github" src="https://github-readme-stats.vercel.app/api?username=CanasDev&count_private=true"/>
 </details> 
-
+<img src="github-metrics.svg">
   
