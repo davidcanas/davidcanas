@@ -1,7 +1,7 @@
 
 <div align=center>
 
-# Hi, I am Canas ;) 
+# Olá, eu sou Canas! 
 
   
 <br>
@@ -19,20 +19,15 @@
 
 <details>
   <br>
-  <summary>⚙️ Most used languages </summary>
+  <summary>⚙️ Linguagens mais usadas</summary>
 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanasDev&custom_title=Linguagens+mais+usadas&langs_count=10&theme=merko" />
 
 </details> 
 <details>
-  <summary>📊 Github Stats </summary>
+  <summary>📊 Status do Github </summary>
 
   <img align="left" alt="Status do Github" src="https://github-readme-stats.vercel.app/api?username=CanasDev&count_private=true"/>
 </details> 
 
-  <details>
-  <summary>Uhhh whats this? </summary>
   
-![Metrics](https://metrics.lecoq.io/CanasDev?template=terminal&config.timezone=Europe%2FLisbon)
-
-</details>
