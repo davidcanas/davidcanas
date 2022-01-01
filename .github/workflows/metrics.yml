@@ -18,7 +18,7 @@ jobs:
           # Options 
           template: classic
           base: header, activity, community, repositories
-          config_timezone: America/Sao_Paulo
+          config_timezone: Europe/Lisbon
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
