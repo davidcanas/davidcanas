@@ -21,13 +21,13 @@
   <br>
   <summary>💻 Most used Languages</summary>
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanasDev&custom_title=Linguagens+mais+usadas&langs_count=10&theme=merko" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcanas&custom_title=Linguagens+mais+usadas&langs_count=10&theme=merko" />
 
 </details> 
 <details>
   <summary>📊 Github Stats </summary>
 
-  <img align="left" alt="Status do Github" src="https://github-readme-stats.vercel.app/api?username=CanasDev&count_private=true"/>
+  <img align="left" alt="Status do Github" src="https://github-readme-stats.vercel.app/api?username=davidcanas&count_private=true"/>
 </details> 
 <img src="github-metrics.svg">
   
