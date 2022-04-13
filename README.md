@@ -12,7 +12,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-000000.svg?&style=for-the-badge&logo=firebase&logoColor=orange)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=3799d6)
-![Pug](https://img.shields.io/badge/-Pug-000000?style=for-the-badge&logo=pug&logoColor=f74b00)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=f74b00)
 ![Lua](https://img.shields.io/badge/-Lua-000000.svg?&style=for-the-badge&logo=lua&logoColor=blue)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=blue)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-000000.svg?&style=for-the-badge&logo=Insomnia&logoColor=blue)
