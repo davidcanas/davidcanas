@@ -25,8 +25,10 @@
 
 </details> 
 <details>
-  <summary>📊 WakatimeStats </summary>
+  <summary>📊 Wakatime Stats </summary>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@canasdev/b549d13a-076d-47ee-b4d3-06d00323a1ef.png" /></a>
 </details> 
+<details>
+<summary>🚀 GitHub Metrics </summary>
 <img src="github-metrics.svg">
-  
+ </details>
