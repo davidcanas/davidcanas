@@ -25,9 +25,8 @@
 
 </details> 
 <details>
-  <summary>📊 Github Stats </summary>
-
-  <img align="left" alt="Status do Github" src="https://github-readme-stats.vercel.app/api?username=davidcanas&count_private=true"/>
+  <summary>📊 WakatimeStats </summary>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@canasdev/b549d13a-076d-47ee-b4d3-06d00323a1ef.png" /></a>
 </details> 
 <img src="github-metrics.svg">
   
