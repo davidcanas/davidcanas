@@ -9,7 +9,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000.svg?&style=for-the-badge&logo=node.js)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
-![Firebase](https://img.shields.io/badge/Firebase-000000.svg?&style=for-the-badge&logo=firebase&logoColor=orange)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000.svg?&style=for-the-badge&logo=mongodb&logoColor=green)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=3799d6)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=f74b00)
