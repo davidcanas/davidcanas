@@ -12,7 +12,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000.svg?&style=for-the-badge&logo=mongodb&logoColor=green)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=3799d6)
-![Portugol](https://img.shields.io/badge/-Portugol-000000?style=for-the-badge&logo=portugol&logoColor=red)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=orange) 
 ![Lua](https://img.shields.io/badge/-Lua-000000.svg?&style=for-the-badge&logo=lua&logoColor=blue)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=blue)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-000000.svg?&style=for-the-badge&logo=Insomnia&logoColor=blue)
