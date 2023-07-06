@@ -1,9 +1,11 @@
 
 <div align=center>
 
-# Hi! 
+# Howdy
+Developer, student.
 
-  
+<img src="https://cdn.discordapp.com/role-icons/959259258829021255/243d02ee3fbd0821de14bf13a0cde87b.webp?size=2048" height=20> Moderator at [Craftsapiens](https://craftsapiens.com.br)
+
 <br>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000.svg?&style=for-the-badge&logo=node.js)  
