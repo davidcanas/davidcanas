@@ -4,7 +4,7 @@
 # Howdy
 Developer, student.
 
-<img src="https://cdn.discordapp.com/role-icons/959259258829021255/243d02ee3fbd0821de14bf13a0cde87b.webp?size=2048" height=20> Moderator at [Craftsapiens](https://craftsapiens.com.br)
+<img src="https://cdn.discordapp.com/role-icons/959259258829021255/243d02ee3fbd0821de14bf13a0cde87b.webp?size=2048" height=20> Moderator at [Craftsapiens](https://discord.io/craftsapiens)
 
 <br>
 
