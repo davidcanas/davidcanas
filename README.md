@@ -26,3 +26,10 @@ Developer, student.
 
 </details> 
 
+ <h2 align="center">🕐 Activity/Status</h2>
+
+<div align="center">
+  <a href="https://discord.com/users/733963304610824252"> 
+  <img height="170em" src="https://lanyard.cnrad.dev/api/733963304610824252?idleMessage=Idle"/>
+</div>
+
