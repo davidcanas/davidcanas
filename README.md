@@ -30,6 +30,6 @@ Developer, student.
 
 <div align="center">
   <a href="https://discord.com/users/733963304610824252"> 
-  <img height="170em" src="https://lanyard.cnrad.dev/api/733963304610824252?idleMessage=Idle"/>
+  <img height="170em" src="https://lanyard.cnrad.dev/api/733963304610824252?idleMessage=:D"/>
 </div>
 
