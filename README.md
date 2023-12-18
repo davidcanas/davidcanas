@@ -22,7 +22,7 @@ Developer, student.
   <br>
   <summary>💻 Most used Languages</summary>
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcanas&custom_title=Linguagens+mais+usadas&langs_count=10&theme=merko" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcanas&custom_title=Linguagens+mais+usadas&langs_count=5&theme=merko" />
 
 </details> 
 
