@@ -10,7 +10,7 @@
 ```txt
 Total Time: 259 hrs 23 mins
 
-TypeScript    145 hrs 15 mins █████████████▓░░░░░░░░░░░   54.50 %
+TypeScript    145 hrs 15 mins █████████████▓░░░░░░░░░░░   54.49 %
 JavaScript    36 hrs 7 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
 EJS           24 hrs 6 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
 Python        10 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
