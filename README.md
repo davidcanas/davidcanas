@@ -54,6 +54,20 @@
 
 <h3 align="center">⏳ Tempo de Código</h3>
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 266 hrs 23 mins
+
+TypeScript    149 hrs 15 mins █████████████▓░░░░░░░░░░░   54.56 %
+JavaScript    36 hrs 7 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
+EJS           24 hrs 33 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+Python        11 hrs 33 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+JSON          7 hrs 31 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+C             7 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Other         7 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Bash          5 hrs 54 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+```
+
 <!--END_SECTION:waka-->
 <br/>
 
