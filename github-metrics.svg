@@ -38,7 +38,7 @@
   followed by <b>36</b> users
 </div>
 <div class="stdin"><span class="ps1-path">davidcanas@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  755</b> commits
+  <b>  756</b> commits
   <b>    0</b> pull requests reviewed
   <b>    0</b> pull requests opened
   <b>    0</b> issues opened
@@ -47,10 +47,10 @@
 <b>Tracked activity</b>
   <b>   32</b> users followed
   <b>    0</b> repositories sponsored
-  <b>  194</b> repositories starred
+  <b>  195</b> repositories starred
   <b>    6</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">davidcanas@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 54 repositories - 766 MB
+<div class="stdin"><span class="ps1-path">davidcanas@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 54 repositories - 765 MB
 -r--  <b>   42</b>  stargazers
 -r--  <b>    1</b>  fork
 -r--  <b>    2</b>  watchers
