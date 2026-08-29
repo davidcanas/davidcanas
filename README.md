@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Howdy,+I'm+David" alt="Typing SVG" />
 
   <p>
-     <img src="https://cdn.discordapp.com/role-icons/939949169467088898/c0f3eceecb8cbf9b791b54af8b951ec7.png?size=2048" height="20"> <b>Admin @ Craftsapiens</b>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN8Zf7sc0kaHK3otNtDdoOzvYE59s6OuYOa2mNEAtj40ugknz6PByWHBSV&s=10" height="20"> <b>LECI Student at UA</b>
+     <img src="https://cdn.discordapp.com/role-icons/939949169467088898/c0f3eceecb8cbf9b791b54af8b951ec7.png?size=2048" height="20"> <b>Admin @ Craftsapiens</b> &nbsp;|&nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN8Zf7sc0kaHK3otNtDdoOzvYE59s6OuYOa2mNEAtj40ugknz6PByWHBSV&s=10" height="20"> <b>LECI Student at UA</b>
   </p>
 
   <br/>
