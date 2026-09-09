@@ -32,5 +32,5 @@
 
 <br/>
 <div align="center">
-  <sub>Made with ❤️ by David Guerreiro</sub>
+  <sub>Made with ❤️ by David</sub>
 </div>
