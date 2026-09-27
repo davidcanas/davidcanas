@@ -27,7 +27,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=davidcanas&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidcanas&theme=tokyonight&hide_border=true&layout=compact" height="160" alt="Top Langs" />
 </div>
 
 <br/>
